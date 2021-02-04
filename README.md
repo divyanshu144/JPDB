@@ -21,3 +21,15 @@ Benefits of using JsonPowerDB
 6.All key value DB use case
 
 7.Improve working application, live working HTML templates
+
+DATABASE.PNG -> 
+      SHOWS THE COLLECTION OF USER IN JSONPOWERDB
+      
+PUT.PNG ->
+          LETS YOU ADD NEW USER TO THE JPDB
+
+GET.PNG ->
+          USED FOR RETRIVING ALL THE USER FROM JPDB
+          
+UPDATE.PNG ->
+            USED FOR UPDATING THE DATA IN JPDB
